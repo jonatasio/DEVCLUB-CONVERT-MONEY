@@ -86,9 +86,6 @@ section {
     margin: 15px 0;
 }
 
-.currency-logo, .currency-logo-converted {
-    width: 44px;
-}
 
 .currency-box {
     display: flex;
